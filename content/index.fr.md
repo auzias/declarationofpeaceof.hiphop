@@ -1,10 +1,10 @@
 +++
-title = "Declaration"
-linktitle = "Declaration"
-url = "/home"
+title = "Déclaration"
+linktitle = "Déclaration"
+url = "/acceuil"
 
-lang = "en"
-menu = ["en"]
+lang = "fr"
+menu = ["fr"]
 menu_weight = 0
 +++
 
