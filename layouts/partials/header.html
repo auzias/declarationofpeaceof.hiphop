@@ -2,10 +2,13 @@
 	<nav id="language-menu">
 		<a href="/home">English</a>
 		<a href="/acceuil">Français</a>
+		<a href="/casa">Español</a>
 	</nav>
 
 	{{ if (eq .Params.lang "fr") }}
 	<h1 id="title">Déclaration de Paix du Hip Hop</h1>
+	{{ else if (eq .Params.lang "es") }}
+	<h1 id="title">Declaración de Paz del Hip hop</h1>
 	{{ else }}
 	<h1 id="title">Declaration of Peace of Hip Hop</h1>
 	{{ end }}
@@ -18,4 +21,5 @@
 	</nav>
 </header>
 
-<h2 id="subtitle">{{ .Title }}</h2>
+<!--<h2 id="subtitle">{{ .Title }}</h2>-->
+<hr>
