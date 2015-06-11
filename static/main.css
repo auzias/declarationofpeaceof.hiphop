@@ -12,33 +12,13 @@ body {
 }
 
 .clear { clear: both; }
-/*
-
-#language-menu, #main-menu, #title, #subtitle {
-    font-family: Georgia;
-    font-variant: small-caps;
-}
-*/
-
-.copy-left {
-    display: inline-block;
-    text-align: right;
-    margin: 0px;
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-    filter: FlipH;
-    -ms-filter: "FlipH";
-}
-
 /* Language Menu */
 
 #language-menu { float: right; }
 #language-menu a {
     display: block;
     padding: 8px 10px;
-    width: 100px;
+    width: 150px;
 
     transition: border-left 0.3s ease-in-out;
     border-left: 2px solid #FFF;
@@ -58,7 +38,7 @@ body {
 
 #main-menu a {
     float: left;
-    width: 100px;
+    width: 20%;
     text-align: center;
 
     padding: 5px 10px;
