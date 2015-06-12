@@ -7,6 +7,13 @@ lang = "fr"
 menu = ["fr"]
 menu_weight = 0
 +++
+
+<p class="well">
+La Déclaration de la paix a été présentée à l'Organisation des Nations Unies le 16 mai 2001. Elle a été signée par diverses organisations telles que : Temple Of Hip Hop, Rubans International, l'UNESCO et aussi par 300 Hip-Hop militants, des pionniers et des délégués des Nations Unies , en premier lieu ce document reconnaît le Hip-Hop comme une culture internationale de la paix et de la prospérité . Il est également un ensemble de principes qui conseillent tous Hip-Hoppers de maintenir le caractère pacifique de la Culture Hip Hop et à former la paix dans le monde. De plus, cette déclaration est destinée à montrer le Hip-Hop comme un phénomène positif qui n'a rien en commun avec l'image négative du Hip Hop comme quelque chose qui corrompt les jeunes et les encourage à violer la loi. KRS One, Pop Master Fabel, Afrika Bambaataa, Ralph Mc Daniels et Harry Allen étaient quelques-unes des personnes qui ont eu leur part dans la création de la déclaration.
+</p>
+
+# Déclaration de Paix du Hip Hop
+
 La déclaration de Paix du Hip Hop se veut le guide de la Hip Hop Kulture sur un chemin libre de toute violence, et a pour but d’aider et de protéger l’existence et le développement de la communauté Hip Hop a travers le monde. Au travers des principes énoncés dans cette Déclaration, nous la Hip Hop Kulture souhaitons établir des bases de Sante, d’Amour, de Conscience, de Richesse, de Paix et de Prospérité pour chacun d’entre nous, pour nos enfants et pour leurs propres enfants, et ce pour toujours. Pour toute clarification de la définition et de la mission du Hip Hop, ou lorsque la légitimité du Hip Hop est en question, ou lorsque des conflits se développent regardant le Hip Hop; les «Hiphoppas» doivent pouvoir se référer à ce document.
 
 ## Premier principe
@@ -31,7 +38,7 @@ La Hiphop Kulture n’honore aucune relation, aucune personne ni événement, ac
 ## Septième principe
 L'essence du hip-hop est au-delà du divertissement: les éléments de la Hiphop Kulture peuvent être échangés contre de l'argent, de l’honneur, du pouvoir, du respect, de la nourriture, un abri, des informations et d’autres ressources; cependant, le hip-hop et sa culture ne peuvent pas être achetés, et il n'est pas à vendre. Il (le Hiphop) ne peut pas être transféré ou échangé par ou à n'importe qui, pour aucune compensation, à n’importe quel moment ou endroit. Le Hiphop n'est pas un produit. Le Hiphop est la base inestimable de notre émancipation.
 
-##Huitième principe
+## Huitième principe
 Les entreprises, sociétés, les organisations a but non-lucratif, ainsi que les individus et les groupes qui bénéficient clairement de l'utilisation, de l'interprétation et/ou de l’exploitation du terme Hiphop, (i.e. Hip Hop, hip-hop) des expressions et des terminologies du Hiphop, (i.e. Hip Hop, hip-hop,) sont encouragés à consulter et/ou a employer à temps plein ou partiel un spécialiste certifié de la Hiphop Kulture pour interpréter et répondre à des questions culturelles sensibles concernant les principes et la bonne présentation des éléments et de la culture hiphop par rapport aux entreprises, aux individus, organisations, communautés, villes, ainsi que d'autres pays.
 
 ## Neuvième principe
