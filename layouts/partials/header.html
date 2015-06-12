@@ -1,16 +1,12 @@
 <header>
-	<nav id="language-menu">
-	  <div class="dropdown" role="presentation" >
-		<a id="drop6" href="#" data-hover="dropdown" class="dropdown-toggle js-activated" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">
-		Lang<span class="caret"></span>
-		</a>
-		<ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop6">
-		  <li role="presentation"><a href="/home">English</a></li>
-		  <li role="presentation"><a href="/acceuil">Français</a></li>
-		  <li role="presentation"><a href="/casa">Español</a></li>
-		</ul>
-	</nav>
+    <nav id="flags">
+      <a id="fb" href="https://www.facebook.com/hiphopdeclarationofpeace" ><img alt="Facebook" src="/fb.png"></a>
+      <a href="/home"><img alt="english" src="/flags/uk-us.jpg"></a>
+      <a href="/acceuil"><img alt="french" src="/flags/fr.jpg"></a>
+      <a href="/casa"><img alt="spanish" src="/flags/es.jpg"></a>
+    </nav>
 
+<hr>
 	{{ if (eq .Params.lang "fr") }}
 	<h1 id="title">Déclaration de Paix du Hip Hop</h1>
 	{{ else if (eq .Params.lang "es") }}
@@ -25,12 +21,9 @@
 		{{ end }}
 		<div class="clear"></div>
 	</nav>
-      
-</div>
 
-
-
-
+	
+	
 </header>
 
 <!--<h2 id="subtitle">{{ .Title }}</h2>-->
