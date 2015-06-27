@@ -1,9 +1,17 @@
 <header>
     <nav id="flags">
       <a id="fb" href="https://www.facebook.com/hiphopdeclarationofpeace" ><img alt="Facebook" src="/fb.png"></a>
-      <a href="/home"><img alt="english" src="/flags/uk-us.jpg"></a>
-      <a href="/acceuil"><img alt="french" src="/flags/fr.jpg"></a>
-      <a href="/casa"><img alt="spanish" src="/flags/es.jpg"></a>
+
+
+	{{ if (eq .Title "Doc") }}
+        <a href="/documentaries"><img alt="english" src="/flags/uk-us.jpg"></a>
+        <a href="/documentaires"><img alt="français" src="/flags/fr.jpg"></a>
+        <a href="/documentales"><img alt="español" src="/flags/es.jpg"></a>
+	{{ else }}
+        <a href="/home"><img alt="english" src="/flags/uk-us.jpg"></a>
+        <a href="/acceuil"><img alt="french" src="/flags/fr.jpg"></a>
+        <a href="/inicio"><img alt="spanish" src="/flags/es.jpg"></a>
+	{{ end }}
     </nav>
 
 <hr>
