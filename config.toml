@@ -1,4 +1,5 @@
 baseurl = "http://declarationofpeaceof.hiphop"
+relativeurls = true
 
 [taxonomies]
 tag = "tags"
