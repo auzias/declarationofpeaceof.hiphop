@@ -1,7 +1,7 @@
 +++
 title = "Declaración"
 linktitle = "Declaración"
-url = "/casa"
+url = "/inicio"
 
 lang = "es"
 menu = ["es"]
