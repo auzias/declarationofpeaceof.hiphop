@@ -1,10 +1,10 @@
 +++
-title = "Minust"
-linktitle = "Minust"
-url = "/minust"
+title = "A propos"
+linktitle = "A propos"
+url = "/apropos"
 
-lang = "et"
-menu = ["et"]
+lang = "fr"
+menu = ["fr"]
 menu_weight = 30
 +++
 
