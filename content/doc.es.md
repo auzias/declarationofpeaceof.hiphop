@@ -1,7 +1,7 @@
 +++
 title = "Doc"
 linktitle = "Doc"
-url = "/documentaires"
+url = "/documentales"
 
 lang = "es"
 menu = ["es"]
