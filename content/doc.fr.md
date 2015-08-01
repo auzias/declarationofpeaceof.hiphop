@@ -13,3 +13,6 @@ menu_weight = 10
 
 ## Something from Nothing: the Art of Rap
 http://www.imdb.com/title/tt2062996/?ref_=fn_al_tt_2
+
+## <a href="http://www.senscritique.com/liste/Documentaires_Hip_Hop/378375">Liste de 24 documentaires Hip-Hop</a>
+
